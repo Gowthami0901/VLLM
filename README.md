@@ -35,7 +35,6 @@ Below is a demonstration of a VLLM-based customer support chatbot using the **GP
 
 **GitHub Colab Link:** [VLL.inpy](https://colab.research.google.com/drive/1jXMZ8zHQ21BQdhfvju6XquyHv0kYJQxL?usp=sharing)
 
-
 ```python
 from vllm import LLM
 
